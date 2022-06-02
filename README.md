@@ -1,3 +1,7 @@
+# My Solution - live version
+
+Live version solution (fully responsive): https://rami24t.github.io/Rami-DCISimpleGridExcerciseSolCopy/
+
 # Sports Grid
 
 **Instructions**: 
